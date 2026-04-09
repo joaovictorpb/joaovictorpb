@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou um estudante dedicado e apaixonado por tecnologia, com foco no desenvolvimento web e lógica de programação. Tenho conhecimentos em Python, HTML, CSS, JavaScript, PHP e MySQL, além de experiência com GitHub, Bootstrap e jQuery. Já desenvolvi projetos práticos, como jogos e uma rede social, aplicando conceitos de front-end, back-end e POO. Proativo, autodidata, disciplinado e com facilidade para trabalhar em equipe, estou sempre em busca de novos aprendizados e desafios. Meu objetivo é contribuir com soluções criativas e eficientes.</p>
+<p align="left">Dev Front-end & Back-end
 
 ###
 
